@@ -1,0 +1,17 @@
+/* Selector ID */
+#atas {
+    background-color: rgb(255, 0, 183);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+/*Selector Tag */
+h1 {
+    color: rgb(255, 0, 183);
+}
+/*Selector Class */
+.isi{
+    font-family: arial;
+    font-size: 30px;
+    color:rgb(0, 0, 0)
+}
